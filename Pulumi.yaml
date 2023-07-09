@@ -1,0 +1,4 @@
+name: container-gcp-go
+runtime: go
+binary: gospell
+description: A Go program to deploy a containerized service on Google Cloud

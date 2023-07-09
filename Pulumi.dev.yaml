@@ -1,0 +1,9 @@
+config:
+  container-gcp-go:appPath: .
+  container-gcp-go:concurrency: 1
+  container-gcp-go:containerPort: 8080
+  container-gcp-go:cpu: 1
+  container-gcp-go:memory: 1Gi
+  gcp:project: main-composite-285417
+  gcp:region: us-central1
+  pulumi:template: https://github.com/pulumi/templates/tree/master/container-gcp-go
