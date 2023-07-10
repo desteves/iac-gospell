@@ -1,4 +1,3 @@
-name: container-gcp-go
+name: iac-dev-app
 runtime: go
-binary: gospell
 description: A Go program to deploy a containerized service on Google Cloud

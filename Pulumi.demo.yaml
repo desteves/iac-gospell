@@ -1,0 +1,4 @@
+config:
+  gcp:project: main-composite-285417
+  gcp:region: us-central1
+
